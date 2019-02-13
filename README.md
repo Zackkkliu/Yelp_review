@@ -1,6 +1,4 @@
-# Yelp EDA and Machine Learning
-We are going to use Yelp API to get our data and do some analysis on it. 
-
+# Yelp EDA and Machine Learning 
 Dataset:
 * business.json: Contains business data including location data, attributes, and categories.  
 * review.json: Contains full review text data including the user_id that wrote the review and the business_id the review is written for.  
