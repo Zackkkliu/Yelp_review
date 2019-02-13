@@ -1,5 +1,4 @@
-# STA_141b_project
-This is the repo for STA 141B class .   
+# Yelp EDA and Machine Learning
 We are going to use Yelp API to get our data and do some analysis on it. 
 
 Dataset:
@@ -9,8 +8,5 @@ Dataset:
 * checkin.json：Checkins on a business.
 * tip.json：Tips written by a user on a business. Tips are shorter than reviews and tend to convey quick suggestions.
 
-# Temporary outline:
-1. Do EDA(exploratary anaylysis on each dataset
-2. See if we can find the relaitonship between dataset based on the analysis. 
-3. determine the goal of the overall analysis.
-4. machine learning to predict.
+
+Have you ever fooled by a five stars restaurant or surprise by a one star restaurant on Yelp? If yes, here we are. Our mission is to fix the "inappropriate star" that the user gives to the restaurant which has a huge impact on business' overall rating. 
