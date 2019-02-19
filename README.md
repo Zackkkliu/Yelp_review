@@ -1,4 +1,5 @@
-# Yelp EDA and Machine Learning 
+# Yelp Data Analysis and Machine Learning
+
 Dataset:
 * business.json: Contains business data including location data, attributes, and categories.  
 * review.json: Contains full review text data including the user_id that wrote the review and the business_id the review is written for.  
@@ -6,5 +7,9 @@ Dataset:
 * checkin.json：Checkins on a business.
 * tip.json：Tips written by a user on a business. Tips are shorter than reviews and tend to convey quick suggestions.
 
+# Outline:
+1. EDA and Mining User preferences 
+2. Detect Protential Error on the data
+3. Detect unmatched review and star on Yelp
+4. Provide suggestion and solution to help Yelp offering a better Resturant review system.
 
-Have you ever be fooled by a five stars restaurant or surprise by a one star restaurant on Yelp? If yes, here we are. Our mission is to fix the "inappropriate star" that the user gives to the restaurant which has a huge impact on business' overall rating. 
